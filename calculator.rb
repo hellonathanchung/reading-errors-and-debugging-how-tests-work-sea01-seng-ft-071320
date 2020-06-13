@@ -1,1 +1,1 @@
-first number = Integer
+first_number = Integer
