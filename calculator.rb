@@ -1,1 +1,1 @@
-def first_number = Integer
+first_number = "Hello World".Integer
