@@ -1,1 +1,1 @@
-first_number = "Hello World".Integer
+first_number = "Hello World".
